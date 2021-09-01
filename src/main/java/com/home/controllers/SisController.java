@@ -18,6 +18,6 @@ public class SisController {
     @RequestMapping("/book")
     public String getBook() {
         System.out.println("getBook method is initialized");
-        return "Math book";
+        return "Math book, here you go";
     }
 }
