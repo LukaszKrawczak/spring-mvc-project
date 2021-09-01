@@ -10,6 +10,6 @@
 <br/>
 <h1 align="center">Welcome to home.com</h1>
 <hr>
-<a href="home.com/cafe">link to MOM'S CAFE tet!</a>
+<a href="home.com/cafe">link to MOM'S CAFE super test!</a>
 </body>
 </html>
